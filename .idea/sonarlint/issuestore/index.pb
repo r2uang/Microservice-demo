@@ -59,8 +59,6 @@ Sclients/src/main/java/com/microservice/clients/notification/NotificationClient.
 Tclients/src/main/java/com/microservice/clients/notification/NotificationRequest.java,5\9\59a4c5ce599074be4d73d614e28dc20132be1fc7
 =
 apigw/pom.xml,7\6\769e90cc07d0503e53ff9da3a1e936a2b49abb7c
-Y
-)apigw/src/main/java/ApiGWApplication.java,3\3\33c977ee1740ca4181cc76373070da0fde000711
 p
 @apigw/src/main/java/com/microservice/apigw/ApiGWApplication.java,5\a\5af0ce4e519750d0ad1442bbadfa9f4be45e762e
 <
@@ -69,3 +67,25 @@ l
 <amqp/src/main/java/com/microservice/amqp/RabbitMQConfig.java,6\6\661ec448dc10c0cf0139daa33911eb5ddf273491
 €
 Pnotification/src/main/java/com/microservice/notification/NotificationConfig.java,6\0\60ec475e978cf18fa7ab982a4b60f06f2c8f24cf
+u
+Eamqp/src/main/java/com/microservice/amqp/RabbitMQMessageProducer.java,4\f\4fa358933d98d5784b8060ec98e19a822160d629
+x
+Hcustomer/src/main/java/com/microservice/customer/CustomerRepository.java,1\d\1d51410c3f62b28a0e5e21b7e8a004a50e5ce9b8
+y
+Icustomer/src/main/java/com/microservice/customer/CustomerApplication.java,0\0\00e69d9fe88eb795dffcc5f2b8e1ff278ea5eb86
+u
+Ecustomer/src/main/java/com/microservice/customer/CustomerService.java,6\e\6ede91f4ce630c2d30da28567c0aaafc739f8483
+
+Qcustomer/src/main/java/com/microservice/customer/CustomerRegistrationRequest.java,0\9\0982b23da4c0eb18780ca430dcd707107a893967
+x
+Hcustomer/src/main/java/com/microservice/customer/CustomerController.java,1\4\142b95cf882730f94952f709e7a50cfae8714dd0
+t
+Dcustomer/src/main/java/com/microservice/customer/CustomerConfig.java,f\1\f1ae61d52a55787c9e04d5feb12f0dae4e986b31
+‹
+[notification/src/main/java/com/microservice/notification/rabbitmq/NotificationConsumer.java,5\5\55ff820a946cd9cf344d863e9bc42e81c2d24e20
+n
+>customer/src/main/java/com/microservice/customer/Customer.java,3\c\3c15f0a1c3d50bb34f0a4f2b2607cdd6e5c8d530
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e

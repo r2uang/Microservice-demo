@@ -1,4 +1,4 @@
-package com.mircroservice.customer;
+package com.microservice.customer;
 
 public record CustomerRegistrationRequest(String firstName
         , String lastName

@@ -1,4 +1,4 @@
-package com.mircroservice.customer;
+package com.microservice.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
