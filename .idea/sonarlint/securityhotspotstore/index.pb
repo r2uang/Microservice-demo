@@ -3,20 +3,8 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 @
 customer/pom.xml,f\0\f04db7a99ce1257e856612bd563cd946a39fac96
-z
-Jcustomer/src/main/java/com/mircroservice/customer/CustomerApplication.java,d\2\d2a69903585203bff4df241e458f32ce7db6da5e
-o
-?customer/src/main/java/com/mircroservice/customer/Customer.java,6\2\62e8d9a9ab89c4c6e82d361eff0539bc2866057f
-y
-Icustomer/src/main/java/com/mircroservice/customer/CustomerController.java,c\7\c73ae257b62ac6edc56355625eb1e0314a2680e2
-‚
-Rcustomer/src/main/java/com/mircroservice/customer/CustomerRegistrationRequest.java,9\2\929eb632b9ec64f9205cedeb7e49b9ab43cb1715
-v
-Fcustomer/src/main/java/com/mircroservice/customer/CustomerService.java,4\2\429edb5e2bb8bcd371277a2aa4c182807e1e2050
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
-y
-Icustomer/src/main/java/com/mircroservice/customer/CustomerRepository.java,c\f\cf4e273c4323603bb926354482ca01e96cc1f0ba
 =
 fraud/pom.xml,d\0\d024669e89b7b66ac8ba07340a73edc6aa228259
 p
@@ -29,8 +17,6 @@ q
 Afraud/src/main/java/com/microservice/fraud/FraudCheckService.java,7\2\72061f5fdf8208ea6183380be8d6f8ca7cc19b5c
 o
 ?fraud/src/main/java/com/microservice/fraud/FraudController.java,2\b\2bb447418f1f4a543e4dc7867b423a23c2ad51a1
-u
-Ecustomer/src/main/java/com/mircroservice/customer/CustomerConfig.java,b\a\baae8b843237b701c26966df789d3e5670e7b538
 F
 eureka-service/pom.xml,3\e\3e68d6f421b04d410578ccc97a8773a1a687a9ec
 ‡
